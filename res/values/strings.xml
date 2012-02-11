@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Choose metric to show. This application accesses information over the internet and may incur airtime usage charges.</string>
+    <string name="app_name">AndCW</string>
+    <string name="prefs_accounts_accessKey">Access Key</string>
+    <string name="prefs_accounts_secretKey">Secret Key</string>
+    <string name="prefs_accounts">AWS Account</string>
+
+</resources>
